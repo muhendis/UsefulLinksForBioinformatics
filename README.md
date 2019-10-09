@@ -43,3 +43,6 @@
    * Bunu arayüzünü yaz : https://turkmia.net/kongre2011/cd/pdf/23%20Cosgun.pdf (shiny)
 
 https://github.com/bioinformatics-core-shared-training
+https://binf.snipcademy.com/lessons/ngs-techniques/illumina-solexa
+https://www.illumina.com/documents/products/illumina_sequencing_introduction.pdf
+https://bioinformaticsworkbook.org/list.html
