@@ -33,6 +33,7 @@
 
 ### Bioinformatics Courses
    * https://ghr.nlm.nih.gov/primer#newbornscreening
+   * http://jtleek.com/genstats_site/
    * http://chagall.med.cornell.edu/RNASEQcourse/
    * https://newonlinecourses.science.psu.edu/stat555/
    * https://bioinformatics.ucdavis.edu/training/documentation/
