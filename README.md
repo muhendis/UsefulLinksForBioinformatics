@@ -33,6 +33,7 @@
 
 ### Bioinformatics Courses
    * [Big resource](https://www.csc.fi/en/web/training/archive?p_auth=k2OHu59b&p_p_id=2_WAR_trefmulticategoriestagsportlet_INSTANCE_In4xt66utBf4&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_pos=3&p_p_col_count=7&_2_WAR_trefmulticategoriestagsportlet_INSTANCE_In4xt66utBf4_tags=bioinformatics)
+   * FDR:  https://www.dnastar.com/ArrayStar_Help/index.html#!Documents/fdrbenjaminihochberg.htm
    * https://ghr.nlm.nih.gov/primer#newbornscreening
    * http://chagall.med.cornell.edu/RNASEQcourse/
    * https://newonlinecourses.science.psu.edu/stat555/
